@@ -1,6 +1,6 @@
 # Angular Recipe Book App :
 
-![Application screenshot](./screenshot.png)
+![Application screenshot](./src/assets/screenshot.png)
 
 # Get Started:
 
